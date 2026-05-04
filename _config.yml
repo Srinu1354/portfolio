@@ -1,0 +1,22 @@
+
+title: Srinivas Chirukuri - Product Portfolio
+description: Product Management & Workforce Management case studies, resume, and professional experience
+url: "https://srinu1354.github.io"
+baseurl: "/portfolio"
+theme: minima
+
+author:
+  name: Srinivas Chirukuri
+  email: srinu1354@gmail.com
+  location: Bengaluru, India
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: "case-studies"
+    values:
+      layout: "case-study"
