@@ -22,3 +22,15 @@ title: Home
 ## Featured Case Studies
 
 <div class="case-study-grid">
+    <a href="/portfolio/case-studies/2026-05-04-meesho-rto-crisis" class="case-study">
+        <div class="case-study-header">
+            <span class="category">E-commerce</span>
+            <h3>Meesho: The RTO Crisis Killing India's Value Commerce Giant</h3>
+            <p>Analyzing the 18% return rate problem and proposing actionable solutions for India's tier 2/3 e-commerce leader.</p>
+        </div>
+        <div class="case-study-content">
+            <p>213M users | ₹9,390 Cr revenue | 18% RTO rate | 77% COD orders</p>
+            <strong>Read Case Study →</strong>
+        </div>
+    </a>
+</div>
